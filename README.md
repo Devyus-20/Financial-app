@@ -10,9 +10,9 @@ fitur yang dibuat antaralain adalah :
 * Registrasi
 * Pengelolaan Akun (User)
 * Akun Transaksi (Add Akun)
-* Buku besar
+* Laporan Jurnal
 * Jurnal Transaksi
-*
+* Laporan Keuangan
 ### Tekhnologi
 * php
 * mysql
